@@ -4,7 +4,7 @@ It *(almost)* works the same as Clay.
 ![example](demo.png)
 
 ## Instructions
-Consult `example.c`, compile with `gcc example.c -lraylib`, modify for however you have raylib installed.
+Consult `example.c`, compile with `gcc example.c -lraylib`, modify for however you have raylib installed. Squash and stretch as you wish!
 
 ---
 
