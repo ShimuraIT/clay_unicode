@@ -17,6 +17,7 @@ void HandleClayErrors(Clay_ErrorData errorData) {
 }
 
 int main(){
+	SetTargetFPS(targetFPS);
 
 	Clay_Raylib_Initialize(640,480,"Clay Unicode",FLAG_WINDOW_RESIZABLE|FLAG_WINDOW_HIGHDPI|FLAG_MSAA_4X_HINT|FLAG_VSYNC_HINT); // Extra parameters to this function are new since the video was published
 
